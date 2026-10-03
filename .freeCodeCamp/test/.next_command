@@ -617,3 +617,6 @@ git push
 git add universe.sql
 git commit -m "message"
 git commit -m
+git add universe.sql
+git commit -m "message"
+git push
